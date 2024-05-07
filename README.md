@@ -1,7 +1,8 @@
 <h1>Hi 👋, my name is Eitan</h1>
 <br><br/>
-
 <h2>👨‍💻 Software Development Projects:</h2>
+<b>Pet Adoption Platform</b>
+
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
