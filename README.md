@@ -2,7 +2,7 @@
 <br><br/>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-[Pet Adoption Platform]
+[Pet Adoption Platform](https://github.com/eitanklass1/pet-adoption-platform)
 
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
