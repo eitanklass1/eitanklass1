@@ -1,4 +1,5 @@
-<h1>Hi, I'm Eitan! <br/><a href="https://github.com/eitanklass1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi 👋, my name is Eitan</h1>
+<br><br/>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
