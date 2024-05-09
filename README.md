@@ -2,7 +2,9 @@
 <p>I'm a software developer and engineer from the Bay Area. With a strong foundation in software development and programming principles across multiple platforms, I bring a wealth of experience to the table. I'm passionate about leveraging technology to challenge the status quo and drive positive change.</p>
 
 ## Contact me
-<a href=”https://www.linkedin.com/in/eitan-klass/"><img align=”left” src=”https://www.svgrepo.com/show/81143/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href="https://www.linkedin.com/in/eitan-klass/">
+  <img align="left" src="https://www.svgrepo.com/show/81143/linkedin.svg" alt="icon | LinkedIn" width="21px"/> 
+</a>
 
 ## Here's my favorite project I've done:
 - [Yelp reviews AI chatbot](https://github.com/eitanklass1/public-tastebot)
