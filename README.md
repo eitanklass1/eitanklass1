@@ -1,11 +1,11 @@
-<h1>Hi 👋, my name is Eitan</h1>
-<p>I'm always looking to create value for someone, somewhere</p>
+# Hi there, I'm Eitan <img src="https://user-images.githubusercontent.com/43292234/179925738-4df11b89-1924-4d3d-82b5-3a197ac4f031.gif" width="50" />
+<p>I'm a software developer and engineer from the Bay Area. With a strong foundation in software development and programming principles across multiple platforms, I bring a wealth of experience to the table. I'm passionate about leveraging technology to challenge the status quo and drive positive change.</p>
 
-Here's my favorite project I've done:
+## Contact me
+<a href=”https://www.linkedin.com/in/eitan-klass/"><img align=”left” src=”https://www.svgrepo.com/show/81143/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
+## Here's my favorite project I've done:
 - [Yelp reviews AI chatbot](https://github.com/eitanklass1/public-tastebot)
-
-Here are a few languages/frameworks/tools that I'm proficient in:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eitanklass1)](https://github.com/eitanklass1/github-readme-stats)
 
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
