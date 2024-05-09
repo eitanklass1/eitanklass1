@@ -1,5 +1,5 @@
 # Hi there, I'm Eitan <img src="https://user-images.githubusercontent.com/43292234/179925738-4df11b89-1924-4d3d-82b5-3a197ac4f031.gif" width="50" />
-<p>I'm a software developer and engineer from the Bay Area. With a strong foundation in software development and programming principles across multiple platforms, I bring a wealth of experience to the table. I'm passionate about leveraging technology to challenge the status quo and drive positive change.</p>
+<p>I'm a software developer and engineer from the Bay Area. With a strong foundation in software development and programming principles across multiple platforms, I'm passionate about leveraging technology to challenge the status quo and drive positive change.</p>
 
 ## Contact me
 <a href="https://www.linkedin.com/in/eitan-klass/">
