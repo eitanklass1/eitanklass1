@@ -5,6 +5,7 @@
 <a href="https://www.linkedin.com/in/eitan-klass/">
   <img align="left" src="https://www.svgrepo.com/show/81143/linkedin.svg" alt="icon | LinkedIn" width="21px"/> 
 </a>
+<br></br>
 
 ## Here's my favorite project I've done:
 - [Yelp reviews AI chatbot](https://github.com/eitanklass1/public-tastebot)
