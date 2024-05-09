@@ -24,6 +24,10 @@ Here are a few languages/frameworks/tools that I'm proficient in:
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
+      <td width="25%" align="center">
+        <span>Express.js</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express"/>
+      </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
@@ -38,12 +42,12 @@ Here are a few languages/frameworks/tools that I'm proficient in:
         <span>Firebase</span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"/>
       </td>
-    </tr>
-    <tr valign="top">
       <td width="25%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
+    </tr>
+    <tr valign="top">
       <td width="25%" align="center">
         <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
@@ -51,12 +55,6 @@ Here are a few languages/frameworks/tools that I'm proficient in:
       <td width="25%" align="center">
         <span>𝗖𝗦𝗦𝟯</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-    </tr>
-    <tr>
-      <td width="25%" align="center">
-        <span>Express.js</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express"/>
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
