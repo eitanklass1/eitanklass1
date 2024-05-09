@@ -26,7 +26,7 @@ Here are a few languages/frameworks/tools that I'm proficient in:
       </td>
       <td width="25%" align="center">
         <span>MongoDB</span><br><br><br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"/>
       </td>
     </tr>
     <tr valign="top">
