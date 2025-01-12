@@ -1,5 +1,7 @@
 # Hi there, I'm Eitan <img src="https://user-images.githubusercontent.com/43292234/179925738-4df11b89-1924-4d3d-82b5-3a197ac4f031.gif" width="50" />
-<p>I'm a software developer and engineer from the Bay Area. With a strong foundation in software development and programming principles across multiple platforms, I'm passionate about leveraging technology to challenge the status quo and drive positive change.</p>
+<p>I'm a computer science grad student at the University of Southern California.</p>
+<p>Currently, I'm working on building out an internal platform for a venture capital firm, [Watertower Ventures](https://www.watertowerventures.com/).</p>
+<p>When I'm not at the computer, I'm usually practicing Brazilian jiu-jitsu, playing chess, or investing in meme coins.</p>
 
 ## Contact me
 <a href="https://www.linkedin.com/in/eitan-klass/">
